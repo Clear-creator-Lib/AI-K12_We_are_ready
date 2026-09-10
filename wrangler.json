@@ -1,0 +1,7 @@
+{
+  "name": "ai-k12-we-are-ready",
+  "compatibility_date": "2026-09-10",
+  "assets": {
+    "directory": "./dist"
+  }
+}
